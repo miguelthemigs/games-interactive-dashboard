@@ -6,7 +6,7 @@ The theme was video games, i got the data from a csv files with information abou
 Some prints of the website:
 - First print shows the table and the mean of anual sales of all the games
 
-# games-interactive-dashboard![print1](https://user-images.githubusercontent.com/93150152/211638951-0d08e796-fedd-4023-be5d-1e0411a8a64c.png)
+![print1](https://user-images.githubusercontent.com/93150152/211638951-0d08e796-fedd-4023-be5d-1e0411a8a64c.png)
 
 - Second print shows a bar graph of the evolution of anual sales by year (image 1) and a pie graph of the percentage of genres of all the video games (image 2).
 
