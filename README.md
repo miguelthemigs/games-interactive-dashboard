@@ -16,7 +16,7 @@ Some prints of the website:
 
 ![print3](https://user-images.githubusercontent.com/93150152/211639764-b8362a93-76bc-463e-bbd9-d8b2e56f3ed4.png)
 
-Last print shows the modificiation of the infornmation and the graphs that was mentioned above, all working in real time.
+Last print shows the modification of the information and the graphs that was mentioned above, all working in real time.
 
 ![print4](https://user-images.githubusercontent.com/93150152/211640957-0ba790a6-9d0e-4a30-8bd1-f8f6aec71bbd.png)
 
